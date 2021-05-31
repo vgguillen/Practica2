@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica2</string>}
+    <string name="lblUser">Username:</string>}
+    <string name="lblPass">Password:</string>}
+    <string name="btnIngresar">INGRESAR</string>}
+    <string name="lblLogin">LOGIN</string>}
+</resources>
